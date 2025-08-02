@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hi Its me Shah Rukh
 Hi i am usman here
 HI this is from Qaiser now
+=======
+For First Pull request  
+>>>>>>> 610752db9aebacf2c7e17ed67b8274ce72517fed
