@@ -1,4 +1,7 @@
 
 name=Saleh
 
-echo "Hello there" $name
+echo "Hello there, My name is: " $name
+
+
+
